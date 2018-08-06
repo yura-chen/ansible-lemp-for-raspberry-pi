@@ -1,7 +1,7 @@
 ---
 - name: Install MySQL, Nginx, and PHP-FPM
   hosts: all
-  remote_user: pi
+  remote_user: yura
   become: yes
   become_method: sudo
 

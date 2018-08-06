@@ -9,4 +9,4 @@
     - php7.1-mysql
 
 - name: Create the .my.cnf file
-  template: src=.my.cnf dest=/home/pi/.my.cnf
+  template: src=.my.cnf dest=/home/yura/.my.cnf

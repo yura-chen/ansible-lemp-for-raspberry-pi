@@ -1,2 +1,5 @@
 [iot]
-192.168.178.96 ansible_ssh_user=pi hostname=zerow1
+192.168.1.155 ansible_ssh_user=yura hostname=yura
+
+[yura]
+95.135.189.216 ansible_ssh_user=yura hostname=yura
